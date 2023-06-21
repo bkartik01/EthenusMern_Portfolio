@@ -22,11 +22,11 @@ const Hero = () => {
 
               <h1 className="heading-name">
                 I'm
-                <strong className="main-name"> Vatsal Agarwal</strong>
+                <strong className="main-name"> Kartik Bisht</strong>
               </h1>
 
               <h3 style={{textAlign: "right", marginTop: "20px"}}>
-                MERN Stack Developer
+                A MERN Stack Developer
               </h3>
             </div>
 
