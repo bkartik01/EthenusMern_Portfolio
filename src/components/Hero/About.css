@@ -1,0 +1,17 @@
+.home-about-social-links{
+    display: flex;
+    list-style-type: none;
+    width: 30%;
+    justify-content: space-between;
+}
+.home-social-icons{
+    transition: border 2s;
+}
+.social-icons{
+    border-radius: 50%;
+    
+}
+.social-icons:hover{
+    border: 2.5px solid yellow;
+    transition: 0.1s ease-in-out;
+}
